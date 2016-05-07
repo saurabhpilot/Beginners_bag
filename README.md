@@ -1,6 +1,5 @@
-# Hello World
+# Learning exercise
 
-Hi Saurabh. This is your first git program. 
-Congratulations.
-
-Doing the Git commit Test
+Sample programs to practice python. 
+Most of the programs are based on google's python excercise
+and basic python coding 
